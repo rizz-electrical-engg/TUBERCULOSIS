@@ -32,4 +32,4 @@ tgcrypto
 urllib3
 uvloop
 xattr
-yt-dlp
+yt-dlp==2023.10.07
